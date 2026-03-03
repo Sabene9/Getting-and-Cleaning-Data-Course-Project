@@ -10,9 +10,8 @@ of each variable for each activity and each subject.
 ## Original Dataset
 
 The dataset was obtained from:
+Training and test files of the UCI Machine Learning Repository(Human Activity Recognition Using Smartphones Dataset)
 
-UCI Machine Learning Repository  
-Human Activity Recognition Using Smartphones Dataset
 
 The dataset includes:
 
@@ -36,7 +35,7 @@ The dataset includes:
 ## Final Tidy Dataset
 
 The final dataset contains:
-
+A ti dy data with: 
 - 180 rows (30 subjects × 6 activities)
 - 68 columns
     - 1 Subject column
